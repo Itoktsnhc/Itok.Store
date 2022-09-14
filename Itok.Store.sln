@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{B7F7342C-FB16-4FF1-B206-7F543E62F087}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Itok.Store.SQL.Core", "SQL\Itok.Store.SQL.Core\Itok.Store.SQL.Core.fsproj", "{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Itok.Store.SQL.Interpreter", "SQL\Itok.Store.SQL.Interpreter\Itok.Store.SQL.Interpreter.fsproj", "{4079E185-74CE-430D-82DF-CA9C260C661F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40} = {B7F7342C-FB16-4FF1-B206-7F543E62F087}
+		{4079E185-74CE-430D-82DF-CA9C260C661F} = {B7F7342C-FB16-4FF1-B206-7F543E62F087}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2891DF01-D0B9-4B58-B6BB-E47E43FD8E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4079E185-74CE-430D-82DF-CA9C260C661F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4079E185-74CE-430D-82DF-CA9C260C661F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4079E185-74CE-430D-82DF-CA9C260C661F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4079E185-74CE-430D-82DF-CA9C260C661F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

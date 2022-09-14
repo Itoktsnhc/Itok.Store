@@ -1,2 +1,4 @@
-# Itok.Store
-A repository contains some database related code
+## SQL
+
+**WILL** Contains a toy SQL DB Implementation in F#.
+
